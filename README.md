@@ -1,8 +1,8 @@
 # ScafVAE
 
-### ScafVAE, a framework for AI-based multi-objective drug design.
+### ScafVAE, a framework for scaffold-aware multi-objective drug design.
 
-![Fig1_b](img/Fig1_sinple.png)
+![Fig1_b](ScafVAE/img/Fig1_sinple.png)
 
 <details open><summary><b>Table of contents</b></summary>
 
