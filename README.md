@@ -28,14 +28,14 @@ We provide tested installation commands in `install_cmd.txt`, for your reference
 
 ### Generating moleucules with properties of inerest <a name="generation"></a>
 
-You can use ScafVAE to generate multi-objective molecules by following the notebook `demo/demo_molecular_design.ipynb`.
+You can use ScafVAE to generate multi-objective molecules by following the notebook `ScafVAE/demo/demo_molecular_design.ipynb`.
 
 The notebook contains:
 1. Collecting molecules with their properties.
 2. Training surrogate models.
 3. Generating multi-objective molecules.
 
-If you want to quickly test the molecular generation, you can simply run the following codes here (or run the `demo/demo_molecular_design.py`) to generate the dual-target molecules.
+If you want to quickly test the molecular generation, you can simply run the following codes here (or run the `ScafVAE/demo/demo_molecular_design.py`) to generate the dual-target molecules.
 ```python
 from ScafVAE.app.demo_utils import *
 
@@ -83,7 +83,7 @@ print(df_output)  # a dataframe contrains generated molecules with their propert
 
 ### Train your own model <a name="training"></a>
 
-We provide a pipeline for training the entire ScafVAE based on your provided data in `demo/demo_molecular_pretraining.ipynb`.
+We provide a pipeline for training the entire ScafVAE based on your provided data in `ScafVAE/demo/demo_molecular_pretraining.ipynb`.
 
 ## License <a name="license"></a>
 Released under the MIT license.
