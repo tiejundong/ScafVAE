@@ -22,7 +22,10 @@ and most of them can be easily installed with `pip install`.
 We provide tested installation commands in `install_cmd.txt`, for your reference.
 
 ### ScafVAE
-  ```pip install -e .```
+```pip install -e .```
+
+### Model parameters
+Please download the parameters from [here](https://1drv.ms/u/c/469b767efa9cca5a/Edeg5glwvEBKuKVceZ1W-_YBbW2z0vGkxPWRhNsy5d_2IQ?e=ntkjEr) (or [here](http://www.knightofnight.com/upload/data/ScafVAE/ScafVAE.chk)), and place it in the `ScafVAE/model_param/`.
 
 ## Usage <a name="usage"></a>
 
