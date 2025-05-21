@@ -1,21 +1,23 @@
-# Install required packages (tested on Nev 9, 2024)
+# Installation of required packages (tested on March 26th, 2025)
 
-# create an rdkit environment
+# create a rdkit environment
 conda create -n ScafVAE -c conda-forge python=3.8 rdkit
 conda activate ScafVAE
 
 # torch
 pip install torch==1.10.2+cu113 -f https://download.pytorch.org/whl/torch_stable.html
-
-# torch_geometric
 pip install torch_scatter==2.0.9 torch_sparse==0.6.13 torch_cluster==1.6.0 torch_spline_conv==1.2.1 torch-geometric==2.0.4 -f https://data.pyg.org/whl/torch-1.10.2+cu113.html
+# or torch==2.3.0 (P.S. install openfold without GPU environment if torch version >=2.0)
+# pip install torch==2.3.0 --index-url https://download.pytorch.org/whl/cu118
+# pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv torch_geometric -f https://data.pyg.org/whl/torch-2.3.0+cu118.html
 
-# ESM
-pip install fair-esm "fair-esm[esmfold]" pytorch-lightning==1.9.4 numpy==1.19.5 scipy==1.10.1 pandas==1.2.2
-# then install dllogger and openfold (see protocols in https://github.com/facebookresearch/esm)
+# openfold
+# Install openfold (see https://github.com/aqlaboratory/openfold)
 
 # other packages
-pip install numpy==1.19.5 setuptools==59.5.0 networkx==2.7 tqdm imblearn molecular_rectifier seaborn pandarallel biopython==1.80 ml_collections omegaconf dm-tree chardet modelcif ipykernel jupyter jupyterlab tensorboard ray einops keras_progbar biopandas PyTDC==0.4.1 geatpy==2.7.0 pymoo==0.6.1.1
+pip install numpy==1.19.5 setuptools==59.5.0 networkx==2.7 fair-esm "fair-esm[esmfold]" pytorch-lightning==1.9.4 accelerate scipy==1.10.1 pandas==1.2.2 tqdm imblearn molecular_rectifier diffusers seaborn pandarallel biopython==1.80 ml_collections omegaconf dm-tree chardet modelcif ipykernel jupyter jupyterlab tensorboard ray einops keras_progbar biopandas PyTDC==0.4.1 geatpy==2.7.0 pymoo==0.6.1.1
+
+
 
 
 

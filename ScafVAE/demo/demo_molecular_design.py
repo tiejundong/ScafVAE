@@ -1,4 +1,4 @@
-from ScafVAE.app.demo_utils import *
+from ScafVAE.app.app_utils import *
 
 df_EGFR, df_HER2 = get_demo_properties(max_num=1000, name='binding')  # get molecules with their properties
 
