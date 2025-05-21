@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9102b5b0-0eaa-4fc0-b32e-74342dbb19a6" name="Changes" comment="Update files">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/app/demo_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/app/opt_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/app/sur_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/demo/demo_molecular_design.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ScafVAE/demo/demo_molecular_design.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/demo/demo_molecular_design.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScafVAE/demo/demo_molecular_design.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/demo/demo_pretraining.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ScafVAE/demo/demo_pretraining.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/img/Fig1_simple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/model/GNN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/model/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/model/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/model/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/model/loss.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/model/main_layers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/model/param_setting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/model/task_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/model_param/scaf_att_num_max6_cutoff1.5_no_ring_branch.npz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/model_param/unique_scaf_max6_cutoff1.5_no_ring_branch.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/ppl_predictor_param/ppl_param.chk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/preprocess/S1_pred_ppl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/preprocess/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/preprocess/bind_preprocess.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/preprocess/prepare_input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/preprocess/prepare_som.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/utils/ML.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/utils/common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/utils/data_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/utils/dataset_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/utils/graph2mol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/utils/hub.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/utils/mpl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScafVAE/utils/training_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/install_cmd.txt" beforeDir="false" afterPath="$PROJECT_DIR$/install_cmd.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tiejundong&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tiejundong/ScafVAE.git&quot;,
+    &quot;accountId&quot;: &quot;c7fa2081-fc57-47b1-af91-da6c5daea4ee&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2oir6asX2WLZKJfRAHxT39SzoJC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Scripts/ML/drug/chen_lab/DiscGen/ScafVAE_github/ScafVAE/demo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Scripts\ML\drug\chen_lab\DiscGen\ScafVAE_github\ScafVAE\demo" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9102b5b0-0eaa-4fc0-b32e-74342dbb19a6" name="Changes" comment="" />
+      <created>1731363064262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731363064262</updated>
+      <workItem from="1731363065607" duration="29000" />
+      <workItem from="1731363137316" duration="774000" />
+      <workItem from="1731363936745" duration="1668000" />
+      <workItem from="1731365949934" duration="2639000" />
+      <workItem from="1731370048273" duration="239000" />
+      <workItem from="1731410546929" duration="14000" />
+      <workItem from="1732778468033" duration="3000" />
+      <workItem from="1746429626130" duration="2089000" />
+      <workItem from="1746445547131" duration="29000" />
+      <workItem from="1746531260170" duration="4304000" />
+      <workItem from="1746537814041" duration="17613000" />
+      <workItem from="1746614825780" duration="211000" />
+      <workItem from="1746615687249" duration="35000" />
+      <workItem from="1747852723537" duration="370000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1731364004596</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731364004596</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1731364082325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731364082325</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update figure">
+      <option name="closed" value="true" />
+      <created>1731364619684</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731364619684</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1731364958078</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731364958078</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1731365016723</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731365016723</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update files">
+      <option name="closed" value="true" />
+      <created>1731365250491</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731365250491</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update files">
+      <option name="closed" value="true" />
+      <created>1731365441816</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731365441816</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update files">
+      <option name="closed" value="true" />
+      <created>1731365609758</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731365609758</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update files">
+      <option name="closed" value="true" />
+      <created>1731369618909</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731369618909</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update files">
+      <option name="closed" value="true" />
+      <created>1731370095858</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1731370095858</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <MESSAGE value="Update figure" />
+    <MESSAGE value="Update README.md" />
+    <MESSAGE value="Update files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update files" />
+  </component>
+</project>

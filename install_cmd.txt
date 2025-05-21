@@ -7,7 +7,7 @@ conda activate ScafVAE
 # torch
 pip install torch==1.10.2+cu113 -f https://download.pytorch.org/whl/torch_stable.html
 pip install torch_scatter==2.0.9 torch_sparse==0.6.13 torch_cluster==1.6.0 torch_spline_conv==1.2.1 torch-geometric==2.0.4 -f https://data.pyg.org/whl/torch-1.10.2+cu113.html
-# or torch==2.3.0 (P.S. install openfold without GPU environment if torch version >=2.0)
+# or using torch==2.3.0 (P.S. install openfold without GPU environment if torch version >=2.0)
 # pip install torch==2.3.0 --index-url https://download.pytorch.org/whl/cu118
 # pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv torch_geometric -f https://data.pyg.org/whl/torch-2.3.0+cu118.html
 
