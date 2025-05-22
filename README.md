@@ -1,6 +1,6 @@
 # ScafVAE
 
-### ScafVAE, a framework for scaffold-aware multi-objective drug design.
+### ScafVAE, a scaffold-aware VAE framework for multi-objective molecular design.
 
 <img src="ScafVAE/img/TOC.png"  width="500" />
 
